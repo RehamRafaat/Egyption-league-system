@@ -1,0 +1,8 @@
+paris	0	0	0	adsads	2
+asd	1	0	0	as	0
+Zamalik	2	65	0	Shekabala	23
+Real	3	260	0	sief	15
+Bayren	5	473	0	Khaled	14
+Barca	8	70	0	sad	48
+AlAhly	10	3	0	Emad	34
+france	44	90	0	bnnnahly	69
